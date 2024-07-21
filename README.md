@@ -4,3 +4,5 @@
 1) Клонируйте репозиторий с git clone https://github.com/jbcorel/weather_test
 2) Внутри root, > docker compose up --build
 3) Перейдите на localhost:8000
+
+Примечание: вводить название города для корректной работы нужно на ЛАТИНИЦЕ. В остальном, это всё :)
